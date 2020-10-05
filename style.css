@@ -5,6 +5,13 @@
 #nav_left {
     display: inline-block;
 }
+
 #nav_right {
     float: right;
+}
+
+#logo {
+    text-align: center;
+    padding-top: 200px;
+
 }
