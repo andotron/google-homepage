@@ -1,0 +1,10 @@
+#nav {
+    display: block;
+}
+
+#nav_left {
+    display: inline-block;
+}
+#nav_right {
+    float: right;
+}
